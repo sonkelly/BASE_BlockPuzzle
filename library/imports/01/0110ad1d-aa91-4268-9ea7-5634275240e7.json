@@ -1,0 +1,62 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "monster2stand",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.0166666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {},
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "ca97b9bd-9383-4ec1-9356-33bd405c820a"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "bced0af4-e0f4-4773-bed6-ceecc9f99f18"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "87cf008a-ba6e-4607-80bb-62123fcaf0a1"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "b5f6ccad-6abc-4669-857c-4ce48af0bd75"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "7f5887eb-8d49-4f50-b29b-15a238e2c750"
+            }
+          },
+          {
+            "frame": 0.8333333333333334,
+            "value": {
+              "__uuid__": "626b3110-395e-40d0-89b5-93085e959dbf"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "ca97b9bd-9383-4ec1-9356-33bd405c820a"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

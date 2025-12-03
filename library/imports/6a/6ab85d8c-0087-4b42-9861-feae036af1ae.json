@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sp_board_bg9g",
+    "texture": "691ce90a-e3ff-476a-bf13-d387a69694ed",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      640,
+      640
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      640,
+      640
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

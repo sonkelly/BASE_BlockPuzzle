@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "uiOptionReset",
+    "texture": "adb46388-f7f6-4c72-8abd-e5f45bdeca13",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      150,
+      88
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      150,
+      88
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "__type__": "dragonBones.DragonBonesAtlasAsset",
+  "_name": "8x8_tex",
+  "_objFlags": 0,
+  "_native": "",
+  "_atlasJson": "{\"imagePath\":\"8x8_tex.png\",\"width\":132,\"height\":222,\"name\":\"8x8\",\"SubTexture\":[{\"width\":129,\"y\":1,\"height\":129,\"name\":\"diban\",\"x\":1},{\"width\":88,\"y\":132,\"height\":88,\"name\":\"pailie\",\"x\":1}]}",
+  "_texture": {
+    "__uuid__": "c6f64192-95e1-4b9e-bc2e-4f8cc7eebf09"
+  },
+  "texture": {
+    "__uuid__": "c6f64192-95e1-4b9e-bc2e-4f8cc7eebf09"
+  },
+  "_textureAtlasData": null
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "weijiesuozhezhao",
+    "texture": "d63ed06d-5a43-4b66-b9fb-a56242685207",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      879,
+      115
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      879,
+      115
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

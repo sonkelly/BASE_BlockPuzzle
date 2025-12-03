@@ -1,0 +1,14 @@
+{
+  "__type__": "dragonBones.DragonBonesAtlasAsset",
+  "_name": "jiazai_tex",
+  "_objFlags": 0,
+  "_native": "",
+  "_atlasJson": "{\"imagePath\":\"jiazai_tex.png\",\"width\":53,\"SubTexture\":[{\"width\":50,\"y\":1,\"height\":50,\"name\":\"1\",\"x\":1}],\"height\":53,\"name\":\"jiazai\"}",
+  "_texture": {
+    "__uuid__": "94691285-8f35-4db4-a22a-7a74a943c41b"
+  },
+  "texture": {
+    "__uuid__": "94691285-8f35-4db4-a22a-7a74a943c41b"
+  },
+  "_textureAtlasData": null
+}

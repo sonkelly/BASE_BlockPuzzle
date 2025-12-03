@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "skysun",
+    "texture": "85617c65-bef4-4556-918b-499ab518c3b6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1080,
+      730
+    ],
+    "offset": [
+      0,
+      33.5
+    ],
+    "originalSize": [
+      1080,
+      797
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gitf_newbie",
+    "texture": "22ea4905-b33b-4448-99de-3a1b1e5a5892",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      170,
+      184
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      170,
+      184
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

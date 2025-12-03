@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jiazai_tex",
+    "texture": "94691285-8f35-4db4-a22a-7a74a943c41b",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      50,
+      50
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      53,
+      53
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

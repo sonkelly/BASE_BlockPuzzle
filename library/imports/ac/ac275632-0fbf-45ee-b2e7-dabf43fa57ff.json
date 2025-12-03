@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sp_ui_noPut",
+    "texture": "0cdd485b-07a6-4147-bd0f-021b278cf506",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      666,
+      207
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      666,
+      207
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

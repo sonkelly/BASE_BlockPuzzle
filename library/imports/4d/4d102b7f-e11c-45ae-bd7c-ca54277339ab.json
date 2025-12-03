@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "title_fail",
+    "texture": "e65cc9e0-341a-4168-9564-db8ecbca71bd",
+    "atlas": "",
+    "rect": [
+      1,
+      15,
+      326,
+      51
+    ],
+    "offset": [
+      0.5,
+      -1
+    ],
+    "originalSize": [
+      327,
+      79
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

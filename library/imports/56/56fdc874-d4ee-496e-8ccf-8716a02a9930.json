@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "suituped",
+    "texture": "474218b8-2bdb-4e9f-95be-4150d0a1d0bf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      140,
+      59
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      140,
+      60
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

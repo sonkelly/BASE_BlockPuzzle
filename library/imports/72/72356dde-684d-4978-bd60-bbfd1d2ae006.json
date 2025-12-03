@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "huangguan_tex",
+    "texture": "9a994009-9429-4685-9964-8f2165a45c89",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      1004,
+      906
+    ],
+    "offset": [
+      -9,
+      58
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

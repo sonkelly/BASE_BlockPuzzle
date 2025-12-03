@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "stepbtn",
+    "texture": "2a05aa34-e98d-42b2-99dd-608e49c696d0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      169,
+      175
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      169,
+      175
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

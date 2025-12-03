@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "numa_0",
+    "texture": "9de11900-b2a5-4d32-a890-5519e2cbdc62",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      505,
+      265
+    ],
+    "offset": [
+      -3.5,
+      123.5
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

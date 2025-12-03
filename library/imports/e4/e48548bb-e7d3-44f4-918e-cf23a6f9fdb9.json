@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "unbelievable_!",
+    "texture": "933ff6da-cb8e-4498-a9d0-6f9272eceed1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      43,
+      98
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      43,
+      98
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

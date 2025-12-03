@@ -1,0 +1,14 @@
+{
+  "__type__": "dragonBones.DragonBonesAtlasAsset",
+  "_name": "shuye_tex",
+  "_objFlags": 0,
+  "_native": "",
+  "_atlasJson": "{\"imagePath\":\"shuye_tex.png\",\"width\":409,\"height\":493,\"name\":\"shuye\",\"SubTexture\":[{\"width\":230,\"y\":1,\"height\":351,\"name\":\"1\",\"x\":177},{\"width\":174,\"y\":1,\"height\":490,\"name\":\"2\",\"x\":1}]}",
+  "_texture": {
+    "__uuid__": "663dc263-aeab-4080-945b-7072ccff5fdb"
+  },
+  "texture": {
+    "__uuid__": "663dc263-aeab-4080-945b-7072ccff5fdb"
+  },
+  "_textureAtlasData": null
+}

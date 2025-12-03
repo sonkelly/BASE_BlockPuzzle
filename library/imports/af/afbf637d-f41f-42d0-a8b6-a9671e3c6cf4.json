@@ -1,0 +1,14 @@
+{
+  "__type__": "dragonBones.DragonBonesAtlasAsset",
+  "_name": "luoye_tex",
+  "_objFlags": 0,
+  "_native": "",
+  "_atlasJson": "{\"width\":112,\"SubTexture\":[{\"width\":90,\"y\":1,\"height\":83,\"name\":\"y3\",\"x\":1},{\"width\":109,\"y\":86,\"height\":55,\"name\":\"y2\",\"x\":1},{\"width\":72,\"y\":143,\"height\":66,\"name\":\"y1\",\"x\":1}],\"height\":211,\"name\":\"luoye\",\"imagePath\":\"luoye_tex.png\"}",
+  "_texture": {
+    "__uuid__": "fd815df8-c7b9-4ef3-9f68-84e70cf909d1"
+  },
+  "texture": {
+    "__uuid__": "fd815df8-c7b9-4ef3-9f68-84e70cf909d1"
+  },
+  "_textureAtlasData": null
+}

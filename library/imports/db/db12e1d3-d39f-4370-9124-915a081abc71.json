@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mon3move1",
+    "texture": "4ce997eb-7161-4ee6-9843-ccdfa050cab2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      202,
+      196
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      202,
+      196
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

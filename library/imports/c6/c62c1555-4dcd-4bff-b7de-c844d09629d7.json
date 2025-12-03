@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "uiOptionBackLevel",
+    "texture": "1aad4e2d-f4c5-4017-87ae-70870f48cfea",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      150,
+      88
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      150,
+      88
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

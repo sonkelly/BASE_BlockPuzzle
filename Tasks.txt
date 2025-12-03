@@ -1,0 +1,14 @@
+- Về cơ bản giữ style hiện có, chỉnh lại 1 số button, popup không đúng style candy , nên sử dụng button như btn_song, hoặc mịn như btn home trong gameplay
+- Responsive để hoạt động và giao diện ok trên desktop, tablet, mobile
+- Thay lại màn hình Home cho style đồng bộ với gameplay (button dạng viên ngọc, background đẹp hơn), chỉ giữ lại 3 mode chơi
+ + 8x8 (có tutorial lần đầu, lần sau vào chơi không có tutorial), có best score, 
+ + Flower Flimilation
+ + Clear your place
+- Gameplay đang bị đẩy lên để hiện thị banner ở dưới, nhưng lá cây đang che đi 1 số thứ phía trên như best score, chỉnh lại kéo game play vào giữa 
+- Trên desktop kiếm 1 background khác full màn hình và đẹp hơn trong gameplay
+
+- Có 1 số mode có màn hình Change shape, cần đổi lại button chưa đúng chuẩn khi đóng popup sẽ có icon refresh cần đổi lại cho đồng bộ với các icon khác, kiểm tra logic show, đôi khi thấy show rất dày
+
+- Mode chơi Flower Flimilation kiếm Tile Flower đẹp hơn xem có không
+
+- đổi tên storage data name

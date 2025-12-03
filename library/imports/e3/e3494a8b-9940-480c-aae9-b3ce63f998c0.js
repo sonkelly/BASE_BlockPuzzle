@@ -1,0 +1,276 @@
+"use strict";
+cc._RF.push(module, 'e3494qLmUBIDKrps85j+ZjA', 'LvData_ChuangGuan');
+// Scripts/LvData_ChuangGuan.ts
+
+"use strict";
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+Object.defineProperty(exports, "__esModule", { value: true });
+var _a = cc._decorator, ccclass = _a.ccclass, property = _a.property;
+var LvData_ChuangGuan = /** @class */ (function () {
+    function LvData_ChuangGuan() {
+    }
+    LvData_ChuangGuan.CG_LEVEL_DATA = {
+        1: {
+            board: [41],
+            color: 3,
+            number: [1]
+        },
+        2: {
+            board: [33, 49],
+            color: 1,
+            number: [1, 1]
+        },
+        3: {
+            board: [39, 40, 41, 42, 43],
+            color: 0,
+            number: [1, 1, 2, 1, 1]
+        },
+        4: {
+            board: [21, 25, 59],
+            color: 5,
+            number: [1, 1, 1]
+        },
+        5: {
+            board: [39, 41, 43],
+            color: 2,
+            number: [1, 1, 1]
+        },
+        6: {
+            board: [1, 9, 73, 81, 41],
+            color: 4,
+            number: [1, 1, 1, 1, 2]
+        },
+        7: {
+            board: [21, 30, 39, 48, 57, 25, 34, 43, 52, 61],
+            color: 3,
+            number: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+        },
+        8: {
+            board: [22, 23, 24, 40, 41, 42, 58, 59, 60],
+            color: 1,
+            number: [1, 1, 1, 1, 1, 1, 1, 1, 1]
+        },
+        9: {
+            board: [30, 34, 48, 52, 41],
+            color: 0,
+            number: [1, 1, 1, 1, 2]
+        },
+        10: {
+            board: [23, 32, 39, 40, 41, 42, 43, 50, 59],
+            color: 5,
+            number: [1, 1, 1, 1, 3, 1, 1, 1, 1]
+        },
+        11: {
+            board: [31, 32, 33, 40, 41, 42, 49, 50, 51],
+            color: 2,
+            number: [1, 2, 1, 1, 2, 1, 1, 2, 1]
+        },
+        12: {
+            board: [39, 43, 49, 51, 59],
+            color: 4,
+            number: [1, 1, 1, 1, 1]
+        },
+        13: {
+            board: [23, 30, 52, 59],
+            color: 3,
+            number: [1, 1, 2, 2]
+        },
+        14: {
+            board: [20, 24, 58, 62],
+            color: 1,
+            number: [2, 2, 2, 2]
+        },
+        15: {
+            board: [31, 33, 41, 49, 51],
+            color: 0,
+            number: [1, 1, 2, 1, 1]
+        },
+        16: {
+            board: [21, 30, 39, 48, 57, 58, 59, 60],
+            color: 5,
+            number: [2, 2, 2, 2, 2, 2, 2, 2]
+        },
+        17: {
+            board: [5, 14, 23, 32, 50, 59, 68, 77],
+            color: 2,
+            number: [3, 3, 3, 3, 3, 3, 3, 3]
+        },
+        18: {
+            board: [31, 32, 33, 40, 41, 42],
+            color: 4,
+            number: [1, 2, 1, 2, 1, 2]
+        },
+        19: {
+            board: [11, 17, 32, 40, 41, 42, 50, 65, 71],
+            color: 3,
+            number: [1, 1, 2, 2, 3, 2, 2, 1, 1]
+        },
+        20: {
+            board: [13, 14, 15, 16, 25, 34, 41, 42, 43, 50, 59, 77],
+            color: 1,
+            number: [1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 1]
+        },
+        21: {
+            board: [11, 12, 20, 21, 29, 30, 52, 53, 61, 62, 70, 71],
+            color: 2,
+            number: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+        },
+        22: {
+            board: [5, 14, 23, 32, 50, 59, 68, 77, 37, 38, 39, 40, 42, 43, 44, 45],
+            color: 5,
+            number: [1, 1, 2, 2, 2, 2, 1, 1, 1, 1, 2, 2, 2, 2, 1, 1]
+        },
+        23: {
+            board: [1, 9, 11, 17, 41, 65, 71, 73, 81],
+            color: 3,
+            number: [1, 1, 1, 1, 2, 1, 1, 1, 1]
+        },
+        24: {
+            board: [10, 11, 12, 34, 35, 36, 46, 47, 48, 70, 71, 72],
+            color: 1,
+            number: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+        },
+        25: {
+            board: [23, 74, 75, 76, 77, 78, 79, 80],
+            color: 0,
+            number: [3, 2, 2, 2, 2, 2, 2, 2]
+        },
+        26: {
+            board: [30, 39, 48, 34, 43, 52],
+            color: 4,
+            number: [3, 3, 3, 3, 3, 3]
+        },
+        27: {
+            board: [21, 22, 23, 24, 25, 30, 31, 32, 33, 34, 39, 40, 41, 42, 43, 48, 49, 50, 51, 52, 57, 58, 59, 60, 61],
+            color: 2,
+            number: [1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 1, 2, 3, 2, 1, 1, 2, 2, 2, 1, 1, 1, 1, 1, 1]
+        },
+        28: {
+            board: [22, 23, 24, 32, 41, 50, 58, 59, 60],
+            color: 5,
+            number: [1, 1, 1, 2, 3, 2, 1, 1, 1]
+        },
+        29: {
+            board: [1, 2, 8, 9, 10, 18, 32, 40, 41, 42, 50, 64, 72, 73, 74, 80, 81],
+            color: 3,
+            number: [1, 1, 1, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1]
+        },
+        30: {
+            board: [3, 4, 5, 6, 7, 19, 28, 37, 46, 55, 27, 36, 45, 54, 63, 75, 76, 77, 78, 79],
+            color: 1,
+            number: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+        },
+        31: {
+            board: [40, 42],
+            color: 1,
+            number: [2, 2]
+        },
+        32: {
+            board: [32, 40, 50],
+            color: 1,
+            number: [1, 1, 1]
+        },
+        33: {
+            board: [41],
+            color: 1,
+            number: [3]
+        },
+        34: {
+            board: [23, 39, 41, 43],
+            color: 1,
+            number: [1, 1, 2, 1]
+        },
+        35: {
+            board: [32, 40, 41, 42, 50],
+            color: 1,
+            number: [1, 1, 2, 1, 1]
+        },
+        36: {
+            board: [29, 35, 37, 45, 47, 53],
+            color: 1,
+            number: [1, 1, 2, 2, 1, 1]
+        },
+        37: {
+            board: [32, 40, 42, 50],
+            color: 1,
+            number: [2, 2, 2, 2]
+        },
+        38: {
+            board: [4, 5, 6, 76, 77, 78],
+            color: 1,
+            number: [3, 3, 3, 3, 3, 3]
+        },
+        39: {
+            board: [23, 32, 41, 50, 59],
+            color: 1,
+            number: [2, 2, 2, 2, 2]
+        },
+        40: {
+            board: [8, 9, 18, 26, 27, 55, 56, 64, 73, 74],
+            color: 1,
+            number: [1, 2, 2, 1, 2, 2, 1, 2, 2, 1]
+        },
+        41: {
+            board: [37, 38, 39, 40, 42, 43, 44, 45],
+            color: 1,
+            number: [3, 3, 3, 3, 3, 3, 3, 3]
+        },
+        42: {
+            board: [8, 9, 17, 18, 64, 65, 73, 74],
+            color: 1,
+            number: [2, 2, 2, 2, 2, 2, 2, 2]
+        },
+        43: {
+            board: [55, 63, 64, 72, 73, 74, 75, 79, 80, 81],
+            color: 1,
+            number: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+        },
+        44: {
+            board: [19, 20, 21, 22, 23, 24, 25, 26, 56, 57, 58, 59, 60, 61, 62, 63],
+            color: 1,
+            number: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+        },
+        45: {
+            board: [4, 5, 6, 23, 32, 41, 50, 59, 68, 77],
+            color: 1,
+            number: [3, 3, 3, 2, 2, 2, 2, 2, 2, 2]
+        },
+        46: {
+            board: [13, 14, 15, 22, 23, 24, 31, 32, 33, 40, 41, 42, 49, 50, 51, 58, 59, 60, 67, 68, 69, 76, 77, 78],
+            color: 1,
+            number: [3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3]
+        },
+        47: {
+            board: [22, 23, 24, 58, 59, 60],
+            color: 1,
+            number: [2, 3, 2, 2, 3, 2]
+        },
+        48: {
+            board: [31, 33, 41, 49, 51],
+            color: 1,
+            number: [2, 2, 2, 2, 2]
+        },
+        49: {
+            board: [17, 18, 25, 26, 33, 34, 41, 42, 49, 50, 57, 58, 65, 66, 73, 74],
+            color: 1,
+            number: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+        },
+        50: {
+            board: [16, 17, 25, 26, 56, 57, 65, 66],
+            color: 1,
+            number: [2, 2, 2, 2, 2, 2, 2, 2]
+        }
+    };
+    LvData_ChuangGuan = __decorate([
+        ccclass
+    ], LvData_ChuangGuan);
+    return LvData_ChuangGuan;
+}());
+exports.default = LvData_ChuangGuan;
+
+cc._RF.pop();

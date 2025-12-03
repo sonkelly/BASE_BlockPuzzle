@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "quit_white",
+    "texture": "fbceb58a-8036-4d7f-8d2e-72384c6e5a0f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      95,
+      88
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      95,
+      88
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

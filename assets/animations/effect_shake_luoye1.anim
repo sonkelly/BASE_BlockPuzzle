@@ -1,0 +1,53 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "effect_shake_luoye1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -256.553,
+            715.786,
+            0
+          ]
+        },
+        {
+          "frame": 1.5,
+          "value": [
+            -256.553,
+            456.395,
+            0
+          ]
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.16666666666666666,
+          "value": 255
+        }
+      ],
+      "angle": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 1.5,
+          "value": 45
+        }
+      ]
+    }
+  },
+  "events": []
+}

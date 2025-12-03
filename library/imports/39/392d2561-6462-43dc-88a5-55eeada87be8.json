@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sp_ui_flush",
+    "texture": "586f052c-67e7-4e33-974d-e3ed967408d8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      95,
+      88
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      95,
+      88
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

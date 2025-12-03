@@ -1,0 +1,89 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "stepiconlist.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "stepicon10": {
+      "__uuid__": "200ec11c-f57a-4081-a43b-c5262ab18526"
+    },
+    "stepicon11": {
+      "__uuid__": "3d2728b4-6ef8-41a6-a4f2-1684fcf6ba74"
+    },
+    "stepicon12": {
+      "__uuid__": "c39ba821-8f96-4aaa-83a8-3a0d8b4ce706"
+    },
+    "stepicon13": {
+      "__uuid__": "8968cb04-d631-4fff-a44e-76e343b34d06"
+    },
+    "stepicon14": {
+      "__uuid__": "f7d37807-6001-4d69-8f14-98136ca8e185"
+    },
+    "stepicon15": {
+      "__uuid__": "202a0aea-8efa-447c-ab3f-6e12b48f113f"
+    },
+    "stepicon16": {
+      "__uuid__": "11aebb8e-8fb1-4115-a4c1-07111d36f785"
+    },
+    "stepicon17": {
+      "__uuid__": "c75f9d36-61a5-4e80-88af-13ebdfe7b138"
+    },
+    "stepicon6": {
+      "__uuid__": "396cbd83-79c5-46ce-93a2-f1e27ae19267"
+    },
+    "stepicon7": {
+      "__uuid__": "f31e4371-147d-4bde-acfb-2678be232762"
+    },
+    "stepicon8": {
+      "__uuid__": "da434e6f-89d7-429a-aec5-739320cb2877"
+    },
+    "stepicon9": {
+      "__uuid__": "ad03ec5c-a1e3-426f-9d35-d382d1e43bd3"
+    },
+    "stepname10": {
+      "__uuid__": "d05d15b5-60f1-4e67-b165-c89353edb40e"
+    },
+    "stepname11": {
+      "__uuid__": "8d31177d-3987-4452-920f-251b80593282"
+    },
+    "stepname12": {
+      "__uuid__": "ae4f8650-9380-46cc-ad84-746f0dba889e"
+    },
+    "stepname13": {
+      "__uuid__": "e08b1173-84b7-4a8f-a48d-bb29f25969d0"
+    },
+    "stepname14": {
+      "__uuid__": "646668d1-fee5-4e25-84e2-ce146c32407e"
+    },
+    "stepname15": {
+      "__uuid__": "4865ca4f-c0ed-42c6-b29e-7685d52d8620"
+    },
+    "stepname16": {
+      "__uuid__": "5ccfb9a8-8f4a-415e-a351-09735ad1d211"
+    },
+    "stepname17": {
+      "__uuid__": "f1e97fd5-205c-44a1-b755-d49ee3ecb252"
+    },
+    "stepname6": {
+      "__uuid__": "255244c8-c960-49ac-abdb-6fb6933f9f11"
+    },
+    "stepname7": {
+      "__uuid__": "138de14d-8f40-4ae5-beab-226ccf63440b"
+    },
+    "stepname8": {
+      "__uuid__": "e99fe461-6e98-4774-9575-87d2567bc37b"
+    },
+    "stepname9": {
+      "__uuid__": "cb5a2a8e-5cb2-43fd-9346-c5cd71abac56"
+    },
+    "steptitlebg": {
+      "__uuid__": "4ff2ec97-8d72-45d5-b5c5-f34d8ebbf4b9"
+    },
+    "xingxing": {
+      "__uuid__": "42c67538-04ec-4224-9f73-47f57e46ff93"
+    },
+    "xingxing1": {
+      "__uuid__": "4f0df738-9675-4a3a-b7ca-2b70812dbc5c"
+    }
+  }
+}

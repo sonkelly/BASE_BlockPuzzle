@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "suitup",
+    "texture": "f23c648d-ba08-4732-a177-6da2b255ccd0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      220,
+      94
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      220,
+      94
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "changeColor_09",
+    "texture": "82fa68be-6cad-402f-bdff-4c18bec67273",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      140,
+      182
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      140,
+      182
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

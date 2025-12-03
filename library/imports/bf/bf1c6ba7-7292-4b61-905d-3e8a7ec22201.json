@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dogood",
+    "texture": "262026c2-6192-4de2-b3b4-2bfc6c5f41e6",
+    "atlas": "",
+    "rect": [
+      13,
+      12,
+      282,
+      67
+    ],
+    "offset": [
+      4,
+      -3
+    ],
+    "originalSize": [
+      300,
+      85
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

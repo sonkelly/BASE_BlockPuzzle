@@ -1,0 +1,85 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "effect_shake_6",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.0833333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "luoye1": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.08333333333333333,
+              "value": true
+            }
+          ]
+        }
+      },
+      "luoye2": {
+        "props": {
+          "active": [
+            {
+              "frame": 0.6666666666666666,
+              "value": false
+            },
+            {
+              "frame": 0.75,
+              "value": true
+            }
+          ]
+        }
+      },
+      "luoye3": {
+        "props": {
+          "active": [
+            {
+              "frame": 0.4166666666666667,
+              "value": false
+            },
+            {
+              "frame": 0.5,
+              "value": true
+            }
+          ]
+        }
+      },
+      "luoye4": {
+        "props": {
+          "active": [
+            {
+              "frame": 1,
+              "value": false
+            },
+            {
+              "frame": 1.0833333333333333,
+              "value": true
+            }
+          ]
+        }
+      },
+      "luoye5": {
+        "props": {
+          "active": [
+            {
+              "frame": 0.5833333333333334,
+              "value": false
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

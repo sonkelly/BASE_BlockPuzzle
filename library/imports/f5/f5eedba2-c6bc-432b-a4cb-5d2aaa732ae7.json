@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "score_texiao",
+    "texture": "8c7a0ea9-aa84-4d78-9837-1512c5a6c417",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      523,
+      76
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      525,
+      78
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

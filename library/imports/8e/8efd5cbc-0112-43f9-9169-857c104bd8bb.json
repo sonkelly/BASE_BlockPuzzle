@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bottom_zise",
+    "texture": "172c6f9d-f81c-416d-b7c7-48378aa91020",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      585,
+      117
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      585,
+      117
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

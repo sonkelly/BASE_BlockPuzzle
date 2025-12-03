@@ -1,0 +1,100 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "effect_shake_hudie2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 1,
+          "curve": "linear",
+          "value": [
+            416,
+            551
+          ],
+          "motionPath": [
+            [
+              226,
+              330,
+              228,
+              520,
+              227,
+              177
+            ]
+          ]
+        },
+        {
+          "frame": 3,
+          "value": [
+            419,
+            134
+          ],
+          "motionPath": []
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 1,
+          "value": 0
+        },
+        {
+          "frame": 1.1666666666666667,
+          "value": 255
+        },
+        {
+          "frame": 2.8333333333333335,
+          "value": 255
+        },
+        {
+          "frame": 3,
+          "value": 0
+        }
+      ],
+      "angle": [
+        {
+          "frame": 1,
+          "value": 100
+        },
+        {
+          "frame": 3,
+          "value": 255
+        }
+      ],
+      "scale": [
+        {
+          "frame": 1,
+          "value": {
+            "x": 1,
+            "y": 1,
+            "z": 1,
+            "__type__": "cc.Vec3"
+          }
+        },
+        {
+          "frame": 2,
+          "value": {
+            "x": 1.2,
+            "y": 1.2,
+            "z": 1,
+            "__type__": "cc.Vec3"
+          }
+        },
+        {
+          "frame": 3,
+          "value": {
+            "x": 1,
+            "y": 1,
+            "z": 1,
+            "__type__": "cc.Vec3"
+          }
+        }
+      ]
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "caihong_tex",
+    "texture": "6b5100e5-5f2e-4aad-a39b-eab2d77775a6",
+    "atlas": "",
+    "rect": [
+      2,
+      31,
+      125,
+      73
+    ],
+    "offset": [
+      -1,
+      -2
+    ],
+    "originalSize": [
+      131,
+      131
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

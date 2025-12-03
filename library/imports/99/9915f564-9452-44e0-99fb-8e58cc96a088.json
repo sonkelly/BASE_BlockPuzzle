@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mon3stand6",
+    "texture": "d4fe14b9-461e-47e0-a21f-532cbca06263",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      209,
+      177
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      209,
+      177
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

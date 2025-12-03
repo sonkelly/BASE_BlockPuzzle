@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "stepicon17",
+    "texture": "5ed13370-521f-4514-be51-3f737d17a2bb",
+    "atlas": "2104cb2b-50e3-4f6b-a3b2-6d3026aba2ae",
+    "rect": [
+      713,
+      1,
+      299,
+      199
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      299,
+      199
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

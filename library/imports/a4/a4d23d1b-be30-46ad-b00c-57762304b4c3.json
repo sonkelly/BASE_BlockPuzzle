@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hudie2_tex",
+    "texture": "23810cdf-f5b8-4071-88f7-313f10f23672",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      120,
+      50
+    ],
+    "offset": [
+      -3,
+      6
+    ],
+    "originalSize": [
+      128,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

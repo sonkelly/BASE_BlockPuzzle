@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "block_monster3",
+    "texture": "863ae17c-c350-45fa-9995-871507effbd9",
+    "atlas": "c79041bf-0bc3-4913-a921-b8d1a0ad6059",
+    "rect": [
+      365,
+      3,
+      104,
+      114
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      104,
+      114
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

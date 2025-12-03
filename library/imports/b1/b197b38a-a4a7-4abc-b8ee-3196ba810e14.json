@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "1_numdi",
+    "texture": "5b56f20b-408f-4149-bc76-8957b77e473f",
+    "atlas": "",
+    "rect": [
+      5,
+      7,
+      215,
+      170
+    ],
+    "offset": [
+      0.5,
+      -1.5
+    ],
+    "originalSize": [
+      224,
+      181
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

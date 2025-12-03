@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shuye_tex",
+    "texture": "663dc263-aeab-4080-945b-7072ccff5fdb",
+    "atlas": "",
+    "rect": [
+      2,
+      1,
+      405,
+      489
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      409,
+      493
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

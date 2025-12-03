@@ -1,0 +1,17 @@
+info face="num_score" size=32 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1
+common lineHeight=32 base=26 scaleW=256 scaleH=128 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="num_score_0.png"
+chars count=5
+char id=48 x=267 y=0 width=86 height=133 xoffset=0 yoffset=0 xadvance=86 page=0 chnl=0 letter="0"
+char id=49 x=440 y=0 width=57 height=130 xoffset=0 yoffset=0 xadvance=57 page=0 chnl=0 letter="1"
+char id=50 x=0 y=134 width=87 height=132 xoffset=0 yoffset=0 xadvance=87 page=0 chnl=0 letter="2"
+char id=51 x=354 y=0 width=85 height=133 xoffset=0 yoffset=0 xadvance=85 page=0 chnl=0 letter="3"
+char id=52 x=174 y=134 width=92 height=130 xoffset=0 yoffset=0 xadvance=92 page=0 chnl=0 letter="4"
+char id=53 x=88 y=134 width=85 height=131 xoffset=0 yoffset=0 xadvance=85 page=0 chnl=0 letter="5"
+char id=54 x=0 y=0 width=88 height=133 xoffset=0 yoffset=0 xadvance=88 page=0 chnl=0 letter="6"
+char id=55 x=267 y=134 width=80 height=130 xoffset=0 yoffset=0 xadvance=80 page=0 chnl=0 letter="7"
+char id=56 x=89 y=0 width=88 height=133 xoffset=0 yoffset=0 xadvance=88 page=0 chnl=0 letter="8"
+char id=57 x=178 y=0 width=88 height=133 xoffset=0 yoffset=0 xadvance=88 page=0 chnl=0 letter="9"
+
+
+kernings count=0

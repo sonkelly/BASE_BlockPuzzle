@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btnlookvideo",
+    "texture": "b6771f6d-c019-4b1e-a963-9848da2ba651",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      419,
+      179
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      419,
+      179
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "block_purple",
+    "texture": "bd7b598e-b6ea-49aa-ad04-686b3ca5f674",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      62,
+      62
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      62,
+      62
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

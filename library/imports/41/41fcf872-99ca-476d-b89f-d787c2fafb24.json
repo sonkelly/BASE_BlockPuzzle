@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "e_block_stone",
+    "texture": "58c9e4ca-7ad8-406f-b32c-883d304b3110",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      62,
+      62
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      62,
+      62
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

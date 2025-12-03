@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "combo_fantastic",
+    "texture": "cf390c34-f284-408a-a826-37538d835e4a",
+    "atlas": "",
+    "rect": [
+      0,
+      12,
+      600,
+      128
+    ],
+    "offset": [
+      0,
+      -6
+    ],
+    "originalSize": [
+      600,
+      140
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

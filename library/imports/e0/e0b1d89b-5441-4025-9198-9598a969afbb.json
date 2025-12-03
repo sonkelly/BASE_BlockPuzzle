@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sp_ui_teach",
+    "texture": "5bdea56a-64d9-465a-bc43-1ced18bc2332",
+    "atlas": "",
+    "rect": [
+      0,
+      28,
+      326,
+      33
+    ],
+    "offset": [
+      0,
+      -5
+    ],
+    "originalSize": [
+      326,
+      79
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

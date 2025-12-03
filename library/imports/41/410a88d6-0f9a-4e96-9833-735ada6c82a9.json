@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btndoublescore",
+    "texture": "b7567b2b-ad95-4fcd-bbf9-577b2a008547",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      177,
+      209
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      177,
+      209
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

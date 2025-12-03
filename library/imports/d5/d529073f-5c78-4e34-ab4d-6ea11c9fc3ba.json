@@ -1,0 +1,195 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "bombeffect",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.75,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "00a": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.25,
+              "value": true
+            },
+            {
+              "frame": 0.75,
+              "value": false
+            }
+          ],
+          "x": [
+            {
+              "frame": 0.25,
+              "value": -70
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": -103
+            },
+            {
+              "frame": 0.75,
+              "value": -127
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.25,
+              "value": 255
+            },
+            {
+              "frame": 0.75,
+              "value": 100
+            }
+          ]
+        }
+      },
+      "00": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.25,
+              "value": true
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": false
+            }
+          ],
+          "x": [
+            {
+              "frame": 0.25,
+              "value": 50
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": 75
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 127
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.25,
+              "value": 255
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 50
+            }
+          ]
+        }
+      },
+      "light": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.08333333333333333,
+              "value": 100
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "01": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.08333333333333333,
+              "value": true
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": false
+            }
+          ]
+        },
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "f76fa995-9f81-4748-8deb-ce725e8e60a6"
+                }
+              },
+              {
+                "frame": 0.08333333333333333,
+                "value": {
+                  "__uuid__": "f76fa995-9f81-4748-8deb-ce725e8e60a6"
+                }
+              },
+              {
+                "frame": 0.16666666666666666,
+                "value": {
+                  "__uuid__": "6daac699-1638-4bc6-b514-d66efe56dfbb"
+                }
+              },
+              {
+                "frame": 0.25,
+                "value": {
+                  "__uuid__": "8616a4bd-92f7-4ffb-ad56-c028358d30e7"
+                }
+              },
+              {
+                "frame": 0.3333333333333333,
+                "value": {
+                  "__uuid__": "59201520-859f-4d9d-b037-b2727bf7f1cf"
+                }
+              },
+              {
+                "frame": 0.4166666666666667,
+                "value": {
+                  "__uuid__": "1ebdfad5-be0e-4f88-9d96-c0387f59987d"
+                }
+              },
+              {
+                "frame": 0.5,
+                "value": {
+                  "__uuid__": "bcaa6ad2-e37e-4a95-ace9-417f09c3b2aa"
+                }
+              },
+              {
+                "frame": 0.5833333333333334,
+                "value": {
+                  "__uuid__": "1b0f6b10-eba0-4982-b8ad-bb8f64c29b61"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.13333333333333333,
+      "func": "bombFinish",
+      "params": []
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "effect_shake_hudie3",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -116.822,
+            671.205,
+            0
+          ]
+        },
+        {
+          "frame": 2,
+          "value": [
+            -413.149,
+            332.832,
+            0
+          ]
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.16666666666666666,
+          "value": 255
+        },
+        {
+          "frame": 1.8333333333333333,
+          "value": 255
+        },
+        {
+          "frame": 2,
+          "value": 0
+        }
+      ],
+      "angle": [
+        {
+          "frame": 0,
+          "value": 139
+        }
+      ],
+      "scale": [
+        {
+          "frame": 0,
+          "value": {
+            "x": 0.6,
+            "y": 0.6,
+            "z": 1,
+            "__type__": "cc.Vec3"
+          }
+        },
+        {
+          "frame": 2,
+          "value": {
+            "x": 0.8,
+            "y": 0.8,
+            "z": 1,
+            "__type__": "cc.Vec3"
+          }
+        }
+      ]
+    }
+  },
+  "events": []
+}

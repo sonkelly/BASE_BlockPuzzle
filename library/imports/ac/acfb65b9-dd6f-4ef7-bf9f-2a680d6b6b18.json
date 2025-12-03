@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "eliminate4",
+    "texture": "4ea94dcd-95fe-44f2-932d-90f37d71a485",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      327,
+      51
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      327,
+      51
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_sound",
+    "texture": "f2a22108-7a9c-4385-ac23-21578d351d52",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      106,
+      105
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      106,
+      105
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

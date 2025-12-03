@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sp_board_eage",
+    "texture": "591a2b88-b104-4380-b476-492097fd9558",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      703,
+      714
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      705,
+      715
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

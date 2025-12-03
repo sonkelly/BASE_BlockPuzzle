@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "combo_tex",
+    "texture": "32b16c0e-0188-4743-85df-21cad398dfb5",
+    "atlas": "",
+    "rect": [
+      2,
+      3,
+      251,
+      429
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      257,
+      435
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

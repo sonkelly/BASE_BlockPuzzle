@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yuanjiaojuxing",
+    "texture": "a4fe946f-b476-42b8-9223-c33b2e8442b2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      262,
+      209
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      262,
+      209
+    ],
+    "capInsets": [
+      50,
+      50,
+      68,
+      54
+    ]
+  }
+}

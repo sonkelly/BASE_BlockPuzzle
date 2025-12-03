@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "duanweishengji",
+    "texture": "851811d8-5ba4-40e5-8eed-0088e441a47e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      437,
+      146
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      437,
+      146
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

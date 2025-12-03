@@ -1,0 +1,77 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "teach1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.5166666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "hand": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "curve": "expoOut",
+              "value": [
+                0,
+                -330,
+                0
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                -119,
+                176,
+                0
+              ]
+            },
+            {
+              "frame": 2.5166666666666666,
+              "value": [
+                -119,
+                176,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "block": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "curve": "expoOut",
+              "value": [
+                0,
+                -330,
+                0
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                -119,
+                176,
+                0
+              ]
+            },
+            {
+              "frame": 2.5166666666666666,
+              "value": [
+                -119,
+                176,
+                0
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

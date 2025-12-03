@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "webp",
+    "texture": "2e9bdc54-975b-433f-a496-43d0ea2cb21f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      323,
+      319
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      323,
+      319
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

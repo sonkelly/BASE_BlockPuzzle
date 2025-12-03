@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "reLiveBtn",
+    "texture": "449842c1-fce9-4b29-b99b-33d9604b939b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      892,
+      195
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      892,
+      195
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

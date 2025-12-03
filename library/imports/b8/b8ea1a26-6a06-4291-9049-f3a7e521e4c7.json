@@ -1,0 +1,14 @@
+{
+  "__type__": "dragonBones.DragonBonesAtlasAsset",
+  "_name": "caihong_tex",
+  "_objFlags": 0,
+  "_native": "",
+  "_atlasJson": "{\"imagePath\":\"caihong_tex.png\",\"width\":131,\"height\":131,\"name\":\"caihong\",\"SubTexture\":[{\"width\":128,\"y\":1,\"height\":128,\"name\":\"rainbow\",\"x\":1}]}",
+  "_texture": {
+    "__uuid__": "6b5100e5-5f2e-4aad-a39b-eab2d77775a6"
+  },
+  "texture": {
+    "__uuid__": "6b5100e5-5f2e-4aad-a39b-eab2d77775a6"
+  },
+  "_textureAtlasData": null
+}

@@ -1,0 +1,7 @@
+{
+  "use-global-engine-setting": false,
+  "use-default-js-engine": false,
+  "js-engine-path": "/Volumes/WORKING/HTML5/cocos-engine-2.4.13",
+  "use-default-cpp-engine": true,
+  "cpp-engine-path": "/Users/hoanguyen/Documents/HTML5/cocos-engine-2.4.13"
+}

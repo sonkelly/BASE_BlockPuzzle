@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "uiOptionHome",
+    "texture": "c5735cf8-b2ed-45e5-8fbc-c0e6662720ea",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      150,
+      88
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      150,
+      88
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

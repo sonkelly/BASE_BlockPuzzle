@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "retun_menu",
+    "texture": "3d7f2866-9c7a-4fb3-b80f-ae90823d4344",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      198,
+      94
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      198,
+      94
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
